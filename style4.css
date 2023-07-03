@@ -11,7 +11,7 @@
     }
     
     body, section {
-        background-image: url(img/error.jpg) ;
+        background-image: url(error.jpg) ;
         background-size: cover;
-        height:90px;
+        height:90 px;
     }
