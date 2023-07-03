@@ -18,7 +18,7 @@ h2 {
 }
 
 body,h2,head, section {
-    background-image: url(https://github.com/adrkarolina/adrkarolina.github.io/blob/main/bkg.jpg);
+    background-image: url(bkg.jpg);
     background-size: cover;
     height:90px;
 
