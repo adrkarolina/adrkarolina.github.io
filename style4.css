@@ -1,0 +1,17 @@
+.navbar-nav >  li > a {
+    color: #ffe9c5e3;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+    p, h2 {
+        text-align: center;
+        font-style: oblique;
+        font-family: 'Courier New', Courier, monospace;
+        color: #e5f3fa;
+    }
+    
+    body, section {
+        background-image: url(img/error.jpg) ;
+        background-size: cover;
+        height:90px;
+    }

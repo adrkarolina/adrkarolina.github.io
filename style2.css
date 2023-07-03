@@ -1,0 +1,33 @@
+h2 {
+    font-size:22px;
+    text-transform:serif;
+    color:bisque;
+    font-weight:600;
+    
+    }
+
+    ul {
+    font-size:22px;
+    text-transform:serif;
+    color:#2d04e4;
+    font-weight:600;
+    }
+
+    h2,ul, .navbar-nav {
+    font-family:"Times New Roman", Times, serif;
+}
+
+body,h2,head, section {
+    background-image: url(img/bkg.jpg);
+    background-size: cover;
+    height:90px;
+
+}
+.navbar-nav >  li > a {
+    color: #ffe9c5e3;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  header {
+    background-color: #000000;
+  }

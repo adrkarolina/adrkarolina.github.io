@@ -1,0 +1,20 @@
+.navbar-nav >  li > a {
+    color: #ffe9c5e3;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  legend {
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+ 
+.form-check, p {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  background-color: #f8f9fa;
+}
